@@ -1,0 +1,11 @@
+6/5/2023 6:00:10 PM: Program Has Started
+6/5/2023 6:00:10 PM: Local Feeder Found. Connected to http://192.168.68.126/tar1090
+6/5/2023 6:00:10 PM: Program has started looking for Feeder 
+6/5/2023 6:00:14 PM: GTW184  
+6/5/2023 6:00:34 PM: ERROR! Unable to send request to Pixoo: An error occurred while sending the request. | Location: Pixoo.cs | Line 227
+6/5/2023 6:00:34 PM: ERROR! JSON: {"Command":"Draw/SendHttpText","TextId":19,"x":16,"y":46,"dir":0,"font":4,"TextWidth":64,"speed":5,"TextString":"5,350","color":"#F9B612","align":1} | Location: Pixoo.cs | Line 228
+6/5/2023 6:00:34 PM: An error occurred while sending the request.
+6/5/2023 6:00:34 PM: GTW184  
+6/5/2023 6:00:56 PM: ERROR! Unable to send request to Pixoo: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. (192.168.68.125:80) | Location: Pixoo.cs | Line 227
+6/5/2023 6:00:56 PM: ERROR! JSON: {"Command":"Channel/SetIndex","SelectIndex":"0"} | Location: Pixoo.cs | Line 228
+6/5/2023 6:00:56 PM: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. (192.168.68.125:80)
